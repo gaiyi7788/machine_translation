@@ -1,0 +1,4 @@
+node_modules/
+*.pth
+/Week 3/Code/faster_rcnn/VOCdevkit
+Algorithm_Note.pdf
